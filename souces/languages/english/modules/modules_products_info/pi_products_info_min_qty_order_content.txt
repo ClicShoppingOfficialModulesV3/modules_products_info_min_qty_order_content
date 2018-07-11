@@ -1,0 +1,4 @@
+
+ module_products_info_min_qty_order = Do you want to display an information on the type of minimal quantity order ?
+ module_products_info_min_qty_order_description = Display an information on the type of the minimal quantity order
+ module_products_info_min_qty_order_text = To achieve an order concerning this product, it is necessary to have at least a minimum quantity. Your quantity of product will be updated automatically if your order is less than the quantity authorized Low.

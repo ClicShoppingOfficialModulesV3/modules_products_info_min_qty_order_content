@@ -1,0 +1,3 @@
+module_products_info_min_qty_order = Souhaitez-vous afficher une information sur le type de quantité minimale de commande  ?
+module_products_info_min_qty_order_description = Affiche une information sur le type de quantité minimale de commande dans la page de description du produit
+module_products_info_min_qty_order_text = Pour toute commande cette est nécessaire d'avoir une quantité minimale de produits dans votre panier. Votre quantité est automatiquement mise à jour si votre commande est inférieure à la quantité minimale autorisée lors de procédure de paiement.
