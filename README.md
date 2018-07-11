@@ -28,6 +28,6 @@ Implementation:
 - Menu design / Products description
 - https://monsite/myAdmin/modules.php?set=modules_products_info
 - Activate the module
-- Copy the modules_products_info_manufacturer.json into ClicShopping/Work/Cache/Github (manual installation)
+- Copy the modules_products_info_new_arrival.json into ClicShopping/Work/Cache/Github (manual installation)
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_products_info_min_qty_order_content/blob/master/ModuleInfosJson/qty.png)
