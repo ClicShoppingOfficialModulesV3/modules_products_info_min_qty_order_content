@@ -13,7 +13,7 @@
   "apps_name":          "",
   "type_module":      "template",
   "dependance":       "",
-  "description":        "This module allow an information about the minimum of the quantity to make an order",
+  "description":        "This module allow an information about the minimum of the quantity to make an order  in the product description",
  "image":            "ModuleInfosJson/qty.png",
 
   "authors": [
