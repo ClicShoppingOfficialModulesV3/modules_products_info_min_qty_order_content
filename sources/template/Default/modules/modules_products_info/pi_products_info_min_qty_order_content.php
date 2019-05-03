@@ -48,7 +48,7 @@
            $products_min_qty_order_content = '<!-- Start products_info_min_qty_order -->' . "\n";
 
            ob_start();
-           require($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/products_info_min_qty_order_content'));
+           require_once($CLICSHOPPING_Template->getTemplateModules($this->group . '/content/products_info_min_qty_order_content'));
            $products_min_qty_order_content .= ob_get_clean();
 
            $products_min_qty_order_content .= '<!-- end products_info_min_qty_order -->' . "\n";
