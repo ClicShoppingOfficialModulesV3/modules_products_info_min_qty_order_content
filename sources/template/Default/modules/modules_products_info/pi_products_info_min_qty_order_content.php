@@ -126,7 +126,7 @@
     }
 
     public function keys() {
-      return array (
+      return array(
         'MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS',
         'MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_CONTENT_WIDTH',
         'MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_POSITION',
