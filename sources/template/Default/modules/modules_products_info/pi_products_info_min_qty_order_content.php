@@ -28,7 +28,7 @@
       $this->title = CLICSHOPPING::getDef('module_products_info_min_qty_order');
       $this->description = CLICSHOPPING::getDef('module_products_info_min_qty_order_description');
 
-      if (defined('MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS')) {
+      if (\defined('MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS')) {
         $this->sort_order = MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_SORT_ORDER;
         $this->enabled = (MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS == 'True');
       }
@@ -65,7 +65,7 @@
     }
 
     public function check() {
-      return defined('MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS');
+      return \defined('MODULE_PRODUCTS_INFO_MIN_QTY_ORDER_STATUS');
     }
 
     public function install() {
