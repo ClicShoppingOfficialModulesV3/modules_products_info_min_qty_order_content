@@ -14,10 +14,10 @@
   use ClicShopping\OM\CLICSHOPPING;
 
   class pi_products_info_min_qty_order_content {
-    public $code;
+    public string $code;
     public $group;
-    public string $title;
-    public string $description;
+    public $title;
+    public $description;
     public ?int $sort_order = 0;
     public bool $enabled = false;
 
