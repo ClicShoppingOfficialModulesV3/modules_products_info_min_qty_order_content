@@ -15,7 +15,7 @@
 
   class pi_products_info_min_qty_order_content {
     public string $code;
-    public $group;
+    public string $group;
     public $title;
     public $description;
     public ?int $sort_order = 0;
